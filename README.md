@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm running to learn.
+
+I really like it. It's not a lie this time.
 
 <!--
 **newmin2/newmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
