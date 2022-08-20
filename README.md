@@ -1,6 +1,4 @@
 ### Hi there 👋
-I'm running to learn.
-
 I really like it. It's not a lie this time.
 
 <!--
